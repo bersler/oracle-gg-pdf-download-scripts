@@ -25,7 +25,7 @@ Oracle GoldenGate for BigData
 Enterprise Manager Cloud Control Plugin for Oracle GoldenGate
 - gg-emccplugin.12.1.0.3.sh
 - gg-emccplugin.13.1.1.sh
-- gg-emccplugin.13.2.1.sh
+- gg-emccplugin.13.2.1.sh (one of the links is broken and the PDF file is missing on the Oracle web site)
 
 Oracle GoldenGate for NonStop
 - gg-nonstop-12.2.0.1.sh
