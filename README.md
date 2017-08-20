@@ -12,6 +12,7 @@ Oracle GoldenGate
 - gg-11.2.1.sh
 - gg-12.1.2.sh
 - gg-12.2.0.1.sh
+- gg-12.3.sh
 
 Oracle GoldenGate for Application Adapters
 - gg-application-adapters-12.1.2.1.1.sh
@@ -36,6 +37,7 @@ Oracle GoldenGate Studio
 Oracle GoldenGate Monitor
 - monitor-12.1.3.sh
 - monitor-12.2.1.sh
+- monitor-12.2.1.2.sh
 
 Oracle GoldenGate Veridata
 - veridata-12.1.3.sh
