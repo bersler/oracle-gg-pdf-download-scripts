@@ -3,7 +3,7 @@
 # Script for downloading Oracle GoldenGate for NonStop 12.2.0.1 documentation
 # Author: Adam Leszczynski, aleszczynski@bersler.com
 #
-# Date of verification: 2017-07-08
+# Date of verification: 2017-08-24
 
 mkdir "gg-nonstop-12.2.0.1"
 cd "gg-nonstop-12.2.0.1"
@@ -22,6 +22,16 @@ cd ..
 mkdir "Release Notes"
 cd "Release Notes"
 wget -c "https://docs.oracle.com/goldengate/ns1221/gg-nsk/GRLNS/GRLNS.pdf" -O "Release Notes for HP NonStop.pdf"
+cd ..
+
+mkdir "Upgrade"
+cd "Upgrade"
+wget -c "https://docs.oracle.com/goldengate/ns1221/gg-nsk/GNSUP/GNSUP.pdf" -O "Upgrading Oracle GoldenGate for HP NonStop (Guardian).pdf"
+cd ..
+
+mkdir "Installation"
+cd "Installation"
+wget -c "https://docs.oracle.com/goldengate/ns1221/gg-nsk/GNSIS/GNSIS.pdf" -O "Installing Oracle GoldenGate for HP NonStop (Guardian).pdf"
 cd ..
 
 cd ..
