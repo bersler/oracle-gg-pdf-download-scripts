@@ -16,6 +16,7 @@ Oracle GoldenGate
 
 Oracle GoldenGate for Application Adapters
 - gg-application-adapters-12.1.2.1.1.sh
+- gg-application-adapters-12.1.2.1.2.sh
 - gg-application-adapters-12.2.0.1.sh
 
 Oracle GoldenGate for BigData
@@ -29,9 +30,11 @@ Enterprise Manager Cloud Control Plugin for Oracle GoldenGate
 - gg-emccplugin.13.2.1.sh (one of the links is broken and the PDF file is missing on the Oracle web site)
 
 Oracle GoldenGate for NonStop
+- gg-nonstop-12.1.2.sh
 - gg-nonstop-12.2.0.1.sh
 
 Oracle GoldenGate Studio
+- gg-studio-12.2.1.sh (2 docs are in EPUB format, PDF have not been published)
 - gg-studio-12.2.1.2.6.sh
 
 Oracle GoldenGate Monitor
