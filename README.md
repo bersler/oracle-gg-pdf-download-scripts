@@ -23,6 +23,7 @@ Oracle GoldenGate for BigData
 - gg-bigdata-12.1.2.1.sh
 - gg-bigdata-12.2.0.1.1.sh
 - gg-bigdata-12.3.0.1.sh
+- gg-bigdata-12.3.1.1.sh
 
 Enterprise Manager Cloud Control Plugin for Oracle GoldenGate
 - gg-emccplugin.12.1.0.3.sh
@@ -36,6 +37,7 @@ Oracle GoldenGate for NonStop
 Oracle GoldenGate Studio
 - gg-studio-12.2.1.sh (2 docs are in EPUB format, PDF have not been published)
 - gg-studio-12.2.1.2.6.sh
+- gg-studio-12.2.1.3.sh
 
 Oracle GoldenGate Monitor
 - monitor-12.1.3.sh
