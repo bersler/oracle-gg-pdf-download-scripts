@@ -3,7 +3,7 @@
 # Script for downloading Oracle GoldenGate Studio 12.2.1 documentation
 # Author: Adam Leszczynski, aleszczynski@bersler.com
 #
-# Date of verification: 2017-08-24
+# Date of verification: 2018-06-14
 
 mkdir "gg-studio-12.2.1"
 cd "gg-studio-12.2.1"
@@ -15,12 +15,12 @@ cd ..
 
 mkdir "Concepts"
 cd "Concepts"
-wget -c "https://docs.oracle.com/goldengate/s1221/gg-studio/GGSUG/GGSUG.epub" -O "Using Oracle GoldenGate Studio.epub"
+wget -c "https://docs.oracle.com/goldengate/s1221/gg-studio/GGSUG/GGSUG.pdf" -O "Using Oracle GoldenGate Studio.pdf"
 cd ..
 
 mkdir "Release Notes"
 cd "Release Notes"
-wget -c "https://docs.oracle.com/goldengate/s1221/gg-studio/GGSRN/GGSRN.epub" -O "Release Note for Oracle GoldenGate Studio.epub"
+wget -c "https://docs.oracle.com/goldengate/s1221/gg-studio/GGSRN/GGSRN.pdf" -O "Release Note for Oracle GoldenGate Studio.pdf"
 cd ..
 
 cd ..
