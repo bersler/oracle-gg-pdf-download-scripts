@@ -3,24 +3,29 @@
 # Script for downloading Oracle GoldenGate 12.3 documentation 
 # Author: Adam Leszczynski, aleszczynski@bersler.com
 #
-# Date of verification: 2018-06-14
+# Date of verification: 2018-07-15
 
 mkdir "gg-12.3"
 cd "gg-12.3"
-
-mkdir "Concepts"
-cd "Concepts"
-wget -c "https://docs.oracle.com/goldengate/c1230/gg-winux/GGCON/GGCON.pdf" -O "Understanding Oracle GoldenGate.pdf"
-cd ..
 
 mkdir "Release Notes"
 cd "Release Notes"
 wget -c "https://docs.oracle.com/goldengate/c1230/gg-winux/OGGRN/OGGRN.pdf" -O "Release Notes for Oracle GoldenGate.pdf"
 cd ..
 
+mkdir "Concepts"
+cd "Concepts"
+wget -c "https://docs.oracle.com/goldengate/c1230/gg-winux/GGCON/GGCON.pdf" -O "Understanding Oracle GoldenGate.pdf"
+cd ..
+
 mkdir "Installation"
 cd "Installation"
 wget -c "https://docs.oracle.com/goldengate/c1230/gg-winux/OGGIN/OGGIN.pdf" -O "Installing Oracle GoldenGate.pdf"
+cd ..
+
+mkdir "Security"
+cd "Security"
+wget -c "https://docs.oracle.com/goldengate/c1230/gg-winux/OGGSE/OGGSE.pdf" -O "Securing Oracle GoldenGate.pdf"
 cd ..
 
 mkdir "Use"
